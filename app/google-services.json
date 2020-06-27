@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56390048055",
+    "firebase_url": "https://zong-packages-783a1.firebaseio.com",
+    "project_id": "zong-packages-783a1",
+    "storage_bucket": "zong-packages-783a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56390048055:android:e68924d32213063b0a22b2",
+        "android_client_info": {
+          "package_name": "com.fahad.zongpackages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56390048055-7fkcqftcecq756hlave01ltfhfuuaq6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fahad.zongpackages",
+            "certificate_hash": "90379fb552fb44fdce29f8ee1d17f4338d2e0a38"
+          }
+        },
+        {
+          "client_id": "56390048055-07qbfe63dqp2u4dt7a1e3de6m1ic4e1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArJIOpsDKjIHj3gbg5fbKs3uz93xvGtgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56390048055-07qbfe63dqp2u4dt7a1e3de6m1ic4e1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
